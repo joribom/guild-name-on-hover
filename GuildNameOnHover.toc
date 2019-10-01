@@ -1,0 +1,8 @@
+## Interface: 11302
+## Version: 1.0.0
+## Title: Guild Name On Hover
+## Notes: Displays the character's guild name in the hover tooltip
+## Author: Karutshi
+
+GuildNameOnHover.lua
+GuildNameOnHover.xml
